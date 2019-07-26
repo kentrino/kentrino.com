@@ -1,0 +1,76 @@
+
+==================================================================
+https://keybase.io/tachikoma
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kentrino.com
+  * I am tachikoma (https://keybase.io/tachikoma) on keybase.
+  * I have a public key with fingerprint A3A6 0735 004D 9192 4639  BE45 2755 56AD 1895 5D2E
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "011358eb93498ee96c2fff0d3ef1249ce8b548fde5258f1627c772a499df272840000a",
+      "fingerprint": "a3a60735004d91924639be45275556ad18955d2e",
+      "host": "keybase.io",
+      "key_id": "275556ad18955d2e",
+      "kid": "01012dc5552cadea6ada9359a37c6930039ed667d1bb85b20a134319dc09e5ccb53b0a",
+      "uid": "ce3373d78fe810ac21acee569adafd19",
+      "username": "tachikoma"
+    },
+    "service": {
+      "hostname": "kentrino.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1564128552,
+  "expire_in": 157680000,
+  "prev": "ed0d6d1ee41facc812d31eff23fe69dcf191792bc588756fe47d6c2d9c69af5e",
+  "seqno": 33,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMNyAnicbVJrTFRHGF0qVF3ZopUUJEjkVgTk4X0/Nvuj1hJIW8AANQgI3ntnLlyX
+3YXduzwCSCwNBS1USQpB0xIfFLRVaBQaCWp5tCDVqBCFKD9ajGbbQuwiLVHQdC7R
+f50/k/m+c86c78wMm1YZjD6VqRdmZ4B5zOfXgVa3YZ+5J6oCkxygHDNXYFa4ssFC
+AF1anlUFmBnDCYJieCgJFC3wEAqsTCqKggMKKgRJCzLkJYbmFQAZkuEVgiU5meNI
+kRYEoJAcydM4WiIWiymqPR86i5yqXUOyIiWyOEcxOE4DgRBImqUECdIMyTEMw4qA
+4AWGASRExAKHS2cgc5LogvGqA9XQIW/F3v/gX/vGCRLIqEvKIoAiwogCxQgixcms
+QOE4JUDAshwgJIlnJBIXCYqmCAHIuAAZWZYYSlrx7V6RkyFFcRTgeAXyBC7KJCHK
+EDKsgGQVQAg60AWddtEGEVoT5QLV6rCJWFUshsolqgz1ZPVRXkGs0K6hLBzxssOG
+yEVOh+aQHYWoU6BpRS6zztTKi3RoKZTyXonkSaodoCARowQ6XarDjpkJhJQ1VVcl
+GJYmSB7NHIvBsiLVCfNUHcFwLK+/g34PLEGSEOCABQSENKGIssyjqCgCKgpJKZBF
+GSiEQHACKckMz3MMq0CaA+jlgYCyExVGj9kFi+0OzExRyKeYjzRdar5d1NxOiFUN
+DuT4GnyMhjf93tB/mMG4dv3rf7c2JOAlG/l95bfNQwOeqANJndV9Jmx/r+FhqTfc
+OocdfeptX/9V0h5TVGX8IQ/raVhM67p2jWzdfnCy3rf6eMT71rtLhwcn6hJ8G1xf
++18eND4Z3Nr33vzJ5OfdxtzZl9EJ667HZI8HPz6o3fPebjKV/W3YFd1F7dz0ZN4q
+h+4ey2nrmsyKq4/ZcP3Kwg+58TtnPvd227ps2zqHHny5NzGg3JPpF9uZPFtWJ0+N
+tQD48ye+L85ubCbj+8NGj1OJx5551px/YIjrWL4UZO0Kz/lsytxcG3X56MR0Mky9
+bQk6M1n57ph938I9bUcmNf/TsaabD8/NNZZYdjVuXPcP5muRTsSo9KG+0NG5i6sW
+fxlfavKemu+vmkp7uyMyiU5pDnir+mrh1Orz1R8/2hpwmgQnlz+qSco6cNh9J+p0
+kHF3/Rdh2/wftz5K3yxNB9648Q5/60Vc+KWb+xfqtvweGhHY3lGRMfJ8z9ytiKxM
+qmdNCMg+lWJJTMjOurCp7t/gzg8tQz2RZ7YvZ0QK3Y0zO9IGiFxT2pHUH7f4tXfj
+aUsV6S0ZLaZg7j4In/hz0Tw6gp8NG/xg8TtL6d44dSKw2Hvkae3FyvSxtr/qT9yP
+Hl+NFSTXzKWQxo5Q90Dvors3JKnh6qd3PBtqsCsjtTn9y0L6s3PFtj/ahjv9+c1N
+cVPf9E5H10Ax+be7w00d/wG/zMCX
+=/w23
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tachikoma
+
+==================================================================
